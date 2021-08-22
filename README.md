@@ -2,8 +2,7 @@
 
 - Conteudo e funcionamento
 - ↳ Código em Python para estudos, modificações e afins.
-- ↳ Pasta `dist`(distribuição) local onde o arquivo executável se encontra para não precisar ter Python em seu computador e poder usar em qualquer lugar.
-- ↳ O QR CODE sera gerado na pasta raiz do arquivo independente de onde ela estiver mais especificamente na pasta `dist` por tanto não altere nomes.
+- ↳ O QR CODE sera gerado na pasta raiz do arquivo independente de onde ela estiver por tanto não altere nomes.
 - ↳ Projetado para uma experiencia profissional contendo todas as verificações possíveis 
 
 # ✨ Resultado
