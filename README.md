@@ -1,6 +1,6 @@
 # 🔗 QR-Code-Generator
 
-- Conteudo e funcionamento
+# Conteudo e funcionamento
 - ↳ Código em Python para estudos, modificações e afins.
 - ↳ O QR CODE sera gerado na pasta raiz do arquivo independente de onde ela estiver por tanto não altere nomes.
 - ↳ Projetado para uma experiencia profissional contendo todas as verificações possíveis 
