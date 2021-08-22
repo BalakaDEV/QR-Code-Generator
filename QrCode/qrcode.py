@@ -42,3 +42,5 @@ url = pyqrcode.create(site)
 url.png(f"{arquivo}.png", scale=5)
 
 print("QRCODE Criado na pasta do arquivo!")
+
+input()
