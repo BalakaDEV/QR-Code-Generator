@@ -27,4 +27,6 @@ pip install pypng
 <p>💍 Gostou do projeto? 
 <a href="https://github.com/BalakaDEV">Entre em contato</a></p>
 
+⭐ Apoie dando aquela estrela!
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/BalakaDEV)
