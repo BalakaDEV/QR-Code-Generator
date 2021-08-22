@@ -27,4 +27,4 @@ pip install pypng
 
 ⭐ Apoie dando aquela estrela!
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://github.com/BalakaDEV)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org)
