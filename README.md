@@ -1,5 +1,6 @@
 # 🔗 QR-Code-Generator
 
+> Instalação 
 ```sh
 pip install pyqrcode
 ```
