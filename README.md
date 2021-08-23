@@ -22,7 +22,7 @@ pip install pypng
 <br>
 
 **🧙 Desenvolvedor:** Guilherme "Balaka"
-<p>💍 Gostou do projeto? 
+<p>💍 Ficou alguma duvida? 
 <a href="https://github.com/BalakaDEV">Entre em contato</a></p>
 
 ⭐ Apoie dando aquela estrela!
